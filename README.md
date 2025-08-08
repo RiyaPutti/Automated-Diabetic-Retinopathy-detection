@@ -37,26 +37,6 @@ Classes:
 
 4 – Proliferative DR
 
-🚀 How to Run
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/your-username/diabetic-retinopathy-detection.git
-cd diabetic-retinopathy-detection
-
-# Install dependencies (recommended to use a virtual environment)
-pip install -r requirements.txt
-
-# Run the Jupyter notebook
-jupyter notebook
-📈 Results & Visualizations
-Accuracy and AUC for model performance
-
-Confusion matrix and classification report
-
-Grad-CAM or heatmaps for model explainability (optional)
-
 🔮 Future Improvements
 Hyperparameter tuning
 
@@ -67,6 +47,7 @@ Deploy using Flask/Streamlit
 Add Grad-CAM visualizations
 
 💬 License & Credits
-Project for educational/research use
+Project used for major Graduate project 
+ccertification linked with https://www.ijaresm.com/automated-diabetic-retinopathy-detection-using-deep-learning
 
 Credits to Kaggle, academic papers, and open-source contributors
